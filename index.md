@@ -18,7 +18,7 @@
     </div>
 
     <div class="result">
-        <p>Paper Covers Stone. You Won!</p>
+        <p>Paper Covers Stone. WoohooYou Won!</p>
     </div>
 </body>
 </html>
